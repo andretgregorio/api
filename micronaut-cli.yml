@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.bluebee
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, data, data-jpa, flyway, gradle, jdbc-hikari, kotest, kotlin, kotlin-application, logback, postgres, readme, shade, testcontainers, yaml]
